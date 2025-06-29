@@ -1,6 +1,6 @@
 # Build a Flutter App with Offline Support using Hive and Connectivity
 
-Read full tutorial [here]().
+Read full tutorial [here](https://www.djamware.com/post/6860aa415918a579ee684a9b/build-a-flutter-app-with-offline-support-using-hive-and-connectivity).
 
 ## Getting Started
 
